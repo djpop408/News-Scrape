@@ -1,4 +1,4 @@
-# Unit 16 - UCB Bootcamp Project #2
+# News Scraper 
 
 Link to live demo - https://bb-news-scraper.herokuapp.com/
 
